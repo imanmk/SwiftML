@@ -1,0 +1,6 @@
+framework module Pods_Profidicator {
+  umbrella header "Pods-Profidicator-umbrella.h"
+
+  export *
+  module * { export * }
+}
